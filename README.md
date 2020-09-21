@@ -1,13 +1,8 @@
 ### Welcome Cyber Traveler,
 
-My work as from 22/07/2020
+In the past I tried to do allot of stuff at the same time. This is not recommended because I never get stuff done whenever I do that.
 
-Backlog | Doing | Done
------------- | ------------- | -------------
-[kodeboard](https://github.com/agamedev/kodeboard) - Rotation | [goagri website](https://github.com/goagri) - Connect Accounts | [Tsama](https://github.com/KuberKode/Tsama) - TsamaDatabase
-
-:snowflake: Arctic Code Vault Contributor!
-[Read More...](https://github.blog/2020-07-16-github-archive-program-the-journey-of-the-worlds-open-source-code-to-the-arctic/)
+I have thus decided to only focus on [kodeboard](https://github.com/agamedev/kodeboard) and create a simple game which is the single use case for kodeboard.
 
 <!--
 **KuberKode/kuberkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
