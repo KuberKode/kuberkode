@@ -2,7 +2,7 @@
 
 In the past I tried to do allot of stuff at the same time. This is really not recommended because ... I never get stuff done lol 
 
-I have thus decided to only focus on game development for now.
+I have thus decided to only focus on [game development](https://github.com/agamedev) for now.
 
 <!--
 **KuberKode/kuberkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
