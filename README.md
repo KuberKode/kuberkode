@@ -1,8 +1,9 @@
 ### Welcome Cyber Traveler,
 
-In the past I tried to do allot of stuff at the same time. This is really not recommended because ... I never get stuff done lol 
-
-I have thus decided to only focus on [game development](https://github.com/agamedev) for now.
+🔭 I’m currently working on ... 
+- For KuberKode: [CyberChain](https://github.com/KuberKode/cyberchain)
+- For my Websites: [Tsama](https://github.com/KuberKode/Tsama)
+- Some GameDev: [Aliens and Spaceships](https://github.com/agamedev/aliens-and-spaceships-game)
 
 <!--
 **KuberKode/kuberkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
