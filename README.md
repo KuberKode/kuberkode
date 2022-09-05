@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuberkode" alt="kuberkode" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/namibcoder" target="blank"><img src="https://img.shields.io/twitter/follow/namibcoder?logo=twitter&style=for-the-badge" alt="namibcoder" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
