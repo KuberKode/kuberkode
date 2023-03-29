@@ -1,8 +1,7 @@
 ### Welcome Cyber Traveler,
 
 🔭 I’m currently working on ... 
-- For my Websites: [Tsama](https://github.com/KuberKode/Tsama)
-- Some GameDev: [Aliens and Spaceships](https://github.com/agamedev/aliens-and-spaceships-game)
+- Nothing
 
 <!--
 **KuberKode/kuberkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
